@@ -1,0 +1,24 @@
+Board exam Result
+
+1. Read the question carefully.
+2. Start the program.
+3. Open the file
+
+(I)How many pass and Fails
+Condition
+if(mark>=50), then result will considered as Pass, otherwise fail!
+
+(II)Between 90 & 100
+Condition
+if(mark>=90 & mark<=100), then those students will be considered as Above Distinction
+
+(III)Between 80 & 100 Boys and Girls
+Condition
+if(mark>=80 and mark<=100)
+Calculation of Male and Females, by using the Gender segment, then the Boys and Girls Scoring Between 80 and 100 can be done!
+
+(IV)Marks with Highest city
+Condition
+Calculate the Total number of Students who are attending the Board exam in the particular city. Then the pass percentage by mark>=50, then student will be considered as Pass.
+Similarly, do that for the Individual cities
+

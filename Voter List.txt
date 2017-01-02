@@ -1,0 +1,19 @@
+Step by step process
+
+1. Read the question carefully.
+2. Understand the Logically.
+3. Find the solution.
+4. Summary of the Voters list problem
+
+(I) Total number of population, whom can vote i.e. above 18 Years
+if (age>=18), they are eligible to vote
+
+
+(II)From now to 3 Years
+Condition
+if(age<=15), then they tend to vote, after 3 years.
+
+
+(III)Senior Citizen
+Condition
+if(age>=65) then they are said to be Senior Citizens

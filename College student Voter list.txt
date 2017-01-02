@@ -1,0 +1,8 @@
+List of College students, Who are eligible to Vote after 3 Years
+
+1. Take a note of overall strength of the college.
+2. Find out the ones, who dint passed the eligibility age of Vote
+3. Make a condition that should be as ((Age=Age+3)<=Voter age).
+4. If the Condition satisfies, then the Student is eligible to vote.
+
+
